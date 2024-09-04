@@ -26,5 +26,5 @@ class HomeController extends Controller
         return response()->json($subcategories);
     }
     
-    
+    // hello world
 }
